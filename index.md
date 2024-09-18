@@ -9,3 +9,5 @@ empty git
 ```javascript
 var myvar="HELLO WORLD";
 ```
+- [ ] this is a box
+- [x] this is a box
